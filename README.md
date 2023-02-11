@@ -10,7 +10,7 @@ Technologist, majored in digital games by Fatec Carapicuíba, where I had the op
 </p>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/34325394/217648709-d75da039-b140-4b9f-884d-37d073d26e60.gif">
+<img width="767px" src="https://user-images.githubusercontent.com/34325394/217648709-d75da039-b140-4b9f-884d-37d073d26e60.gif">
 </p>
 
 <div align="center">

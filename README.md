@@ -31,7 +31,7 @@ Technologist, majored in digital games by Fatec Carapicuíba, where I had the op
 </p>
 <br>
 <p align="center">
-  <img width="565px" src="https://user-images.githubusercontent.com/34325394/217648709-d75da039-b140-4b9f-884d-37d073d26e60.gif">
+  <a href="https://gsnogueira.github.io"><img width="565px" src="https://user-images.githubusercontent.com/34325394/217648709-d75da039-b140-4b9f-884d-37d073d26e60.gif"></a>
 </p>
 
 <!-- <div align="center">

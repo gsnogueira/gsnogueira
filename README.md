@@ -7,7 +7,7 @@ I worked with financial investments and credit products, having acquired a broad
 
 Technologist at Fatec Carapicuíba, where I had the opportunity to do database monitoring.
 
-I have knowledge in several development technologies and programming languages with a focus on the web:
+I have knowledge in several development technologies and programming languages with a focus on the web...
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 

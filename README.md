@@ -2,7 +2,10 @@
 <h3 align="center">Dev Frontend</h3>
 
 
-Technologist, majored in digital games by Fatec Carapicuíba, where I had the opportunity to do some monitoring in database. Currently I work as a Frontend developer. I have knowledge in several development technologies and programming languages with focus on web.
+Professional with more than 4 years of experience in systems development with a focus on front-end.
+I worked with financial investments and credit products, having acquired a broad knowledge of business rules
+
+Technologist at Fatec Carapicuíba, where I had the opportunity to do database monitoring. I currently work as a full Front-end developer at GFT Group.
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 

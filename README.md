@@ -4,7 +4,7 @@
           </div>
           <div class="col-lg-9 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h2>Hello World! 👋, I'm Gabriel</h2>
-            <h3>Dev Frontend</h3>
+            <h3>Dev Full Stack</h3>
             <p class="fst-italic">
               With more than 6 years of experience
             </p>

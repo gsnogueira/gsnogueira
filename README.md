@@ -6,7 +6,7 @@
             <h2>Hello World! 👋, I'm Gabriel</h2>
             <h3>SENIOR DEVELOPER</h3>
             <p class="fst-italic">
-              With more than 6 years of experience
+              With more than 7 years of experience
             </p>
             <div class="row">
               <div class="col-lg-12">
